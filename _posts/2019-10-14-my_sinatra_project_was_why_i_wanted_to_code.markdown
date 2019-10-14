@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Sinatra project was why I wanted to code"
-date:       2019-10-14 15:59:40 +0000
+date:       2019-10-14 11:59:41 -0400
 permalink:  my_sinatra_project_was_why_i_wanted_to_code
 ---
 
